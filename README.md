@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **RanaGamalDaif@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZwqENqV1V5Ai70nEXnpxvlJPtRYl2i3o/view?usp=sharing](https://drive.google.com/file/d/1ZwqENqV1V5Ai70nEXnpxvlJPtRYl2i3o/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZwqENqV1V5Ai70nEXnpxvlJPtRYl2i3o/view?usp=sharing)
 
 - ⚡ Fun fact **I like to crochet🧶**
 
