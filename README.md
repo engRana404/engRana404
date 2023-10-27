@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rana Gamal</h1>
 <h3 align="center">Student at Faculty of Engineering, Ain Shams University, Computer and Systems Engineering Department</h3>
 
-- 🔭 I’m currently working on **Microwave Oven Controller using ARM Cortex-M4**
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **RanaGamalDaif@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZwqENqV1V5Ai70nEXnpxvlJPtRYl2i3o/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OeRatyoK31tgOKbDNaJWJMhpqTpZ6UOp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
