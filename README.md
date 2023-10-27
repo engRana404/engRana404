@@ -9,9 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rana-gamal-988b78198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rana-gamal-988b78198" height="30" width="40" /></a>
-<a href="https://fb.com/https://drive.google.com/file/d/1zwqenqv1v5ai70nexnpxvljptryl2i3o/view?usp=sharing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://drive.google.com/file/d/1zwqenqv1v5ai70nexnpxvljptryl2i3o/view?usp=sharing" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/rana_gamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/rana_gamal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rana-gamal-daif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rana-gamal-daif/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
