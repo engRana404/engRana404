@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rana Gamal</h1>
 
 <h3 align="center">About Me</h3>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=FF69B4&center=true&vCenter=true&random=true&width=435&lines=Computer+Engineer;" alt="Typing SVG" /></a></div>
 <p align="center">
   Hi, I'm Rana Gamal! 👋 I'm a computer engineer with a Bachelor's in Computer and Systems Engineering from Ain Shams University. My passion for technology drives me to explore and implement innovative solutions that make a real impact.
 </p>
