@@ -22,11 +22,6 @@
 🎓 **Bachelor's in Computer and Systems Engineering**  
 Faculty of Engineering, Ain Shams University – *Class of 2024*
 
-🚀 **Recent Projects:**
-- 🧠 *Cruise Autonomous Car (GM)* – Automated testing for self-driving systems  
-- 🧪 *Fledge Health Platform* – Built QA strategy and executed test automation end-to-end  
-- 🏆 Honored by Egypt’s **Minister of Communications** for excellence in software testing
-
 📄 [**View My Resume**](https://drive.google.com/file/d/1i1ccNkWgTOXJlDbNRTC3iogctUHWWXhS/view?usp=sharing)  
 📫 **Reach me at:** RanaGamalDaif@gmail.com
 
