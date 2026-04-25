@@ -1,81 +1,73 @@
 <h1 align="center">Hi 👋, I'm Rana Gamal</h1>
 
-<h3 align="center">👩‍💻 Test Automation Engineer</h3>
+<h3 align="center">👩‍💻 Test Automation Engineer | ISTQB Certified</h3>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=FF69B4&center=true&vCenter=true&random=true&width=435&lines=ISTQB+Certified+Tester" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Test+Automation+Engineer;ISTQB+Certified+Tester;Selenium+%7C+TestNG+%7C+API+Testing;Always+Learning+%F0%9F%9A%80" />
 </div>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=engrana404&label=Profile%20views&color=0e75b6&style=flat" alt="engrana404" />
-</p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=engrana404" alt="engrana404" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=engrana404&label=Profile%20views&color=ff69b4&style=flat" alt="views"/>
 </p>
 
 ---
 
-🎓 **Bachelor's in Computer and Systems Engineering**  
-Faculty of Engineering, Ain Shams University – *Class of 2024*
-
-📄 [**View My Resume**](https://drive.google.com/file/d/1i1ccNkWgTOXJlDbNRTC3iogctUHWWXhS/view?usp=sharing)  
-📫 **Reach me at:** RanaGamalDaif@gmail.com
+## 👩‍💻 About Me
+- 🎓 Computer & Systems Engineering Graduate – Ain Shams University (2024)
+- 🧪 Passionate about **Software Testing & Automation**
+- ✅ ISTQB Certified Tester
+- 🔍 Focused on building **reliable, scalable test frameworks**
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
+## 📄 Contact
+- 📫 **Email:** RanaGamalDaif@gmail.com
+
+---
+
+## 🔗 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/rana-gamal-daif" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">🧰 Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Maven" width="40" height="40"/>
-  </a>
+## 🧰 Tech Stack
+
+### 👨‍💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+### 🧪 Testing & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,git,maven" />
+</p>
+
+### ⚙️ Additional Skills
+- Test Automation
+- API Testing
+- Agile & Scrum
+- Debugging & Test Design
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=engrana404&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engrana404&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrana404&layout=compact&theme=radical" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=engrana404&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=engrana404&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engrana404&" alt="GitHub Streak" />
-</p>
+## 💡 Fun Fact
+I enjoy combining **engineering thinking with testing mindset** to break systems before users do 😄
